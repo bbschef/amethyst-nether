@@ -1,0 +1,15 @@
+Amethyst Nether – License
+
+Permitted Uses:
+- You may use Amethyst Nether for personal use, including singleplayer gameplay.
+- You may use Amethyst Nether on Minecraft servers for multiplayer gameplay.
+- You may include Amethyst Nether in modpacks, provided that proper credit is given to The Amethystians team.
+
+Prohibited Uses:
+- Resubmitting, republishing, or redistributing Amethyst Nether as a standalone file is prohibited. The project must be downloaded from its official Modrinth page.
+- Resubmitting, republishing, or redistributing modified versions of Amethyst Nether is prohibited.
+- Including Amethyst Nether within another datapack or merging it into a datapack bundle is prohibited.
+- Copying or reusing code, assets, or data from Amethyst Nether in other projects is prohibited unless significant modifications are made.
+
+Rights:
+All rights not expressly granted in this license are reserved by The Amethystians team.
